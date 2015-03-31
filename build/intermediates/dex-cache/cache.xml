@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/adrian_servin/AndroidStudioProjects/Convertidor/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/adrian_servin/AndroidStudioProjects/Convertidor/app/build/intermediates/pre-dexed/debug/classes-c4b9805a1bbf67773b5942b89850520549a0b85d.jar" />
+    </item>
+    <item
+        jar="/home/adrian_servin/AndroidStudioProjects/Convertidor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/adrian_servin/AndroidStudioProjects/Convertidor/app/build/intermediates/pre-dexed/debug/classes-7b1c6af62a7fd56025052f3b2da7a8b3f8b9ea3d.jar" />
+    </item>
+    <item
+        jar="/home/adrian_servin/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/adrian_servin/AndroidStudioProjects/Convertidor/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-cf6fac74d8ed69c17d045013bdaa62565488609c.jar" />
+    </item>
+    <item
+        jar="/home/adrian_servin/AndroidStudioProjects/Convertidor/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/adrian_servin/AndroidStudioProjects/Convertidor/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-58df8dd6b5c37fe471759290386a0b60b2ac7d68.jar" />
+    </item>
+
+</items>
